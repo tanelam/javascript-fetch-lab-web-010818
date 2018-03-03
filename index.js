@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function(){
   console.log("loaded")
 })
 
-const TOKEN = "b1b2702672d0b0c2f671738495da7577e67ef924"
+const TOKEN = ""
 const USER = 'tanelam';
 const API = 'https://api.github.com/'
 const REPO = 'javascript-fetch-lab'
